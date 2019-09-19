@@ -7,6 +7,7 @@ This repo houses the code used to gather and analyze the data presented in a man
 We developed custom hardware to measure wrist movement, like a smart watch or wearable IOT device, during writing.  We were able to analyze the data and build a machine learning classifier that can identify the digit, zero or one, being written.  The code for the hardware, analysis, and model are located in this repo.
 
 For more information contact [Lambert Leong](lambert3@hawaii.edu) 
+To learn more about the project and manuscript check out [lambertleong.com](https://www.lambertleong.com/projects)
 
 ## Hardware and Code
 
